@@ -1,0 +1,13 @@
+Regex 0
+
+$1 /\,\ / $2
+
+Regex 1
+
+/I am / $1 /\.\ My favorite sandwich is / $2 /\.\/ 
+
+Regex 2
+
+/sandwich with / $1 / / $2
+
+
